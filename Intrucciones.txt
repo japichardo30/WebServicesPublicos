@@ -1,0 +1,4 @@
+- Correr el scrip wspublicos en su localhost:80/phpmyadmin para que funcione de manera correcta. 
+- Tiene toda la data necesaria. No es necesario hacer inserts
+- Si no le reconoce la BD en el visual studio es porque no cuentan con el conector de mysql, el mismo pueden encontrarlo aqui: 
+	https://dev.mysql.com/downloads/windows/visualstudio/ o en su defecto en el nuget package(Mucho mejor por esta vía). 
